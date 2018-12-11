@@ -16,4 +16,5 @@
 ## 우리 팀
 - [잔디](https://www.jandi.com) 가입 (가입 후 팀원 아무나에게 잔디 팀 초대 요청)
 - GitHub 가입 (GitHub 아이디를 이윤수 부장에게 전달)
+  - 차후 메일로 초대장이 여러건 발송되는데 각각 전부 수락
 - AWS S3와 콘솔 접근을 위한 접속 정보 획득 (팀 [Issues](https://github.com/rnb-rpa/Team/issues/new)에 **Labels:AWS**로 요청, 사용할 아이디 입력)
