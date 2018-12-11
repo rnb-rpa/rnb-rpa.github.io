@@ -15,7 +15,7 @@
 - [RNB사우회 가입](cafe.md)
 
 ## 우리 팀
-- [팀용 개인 이력 프로필](https://github.com/rnb-rpa/Team/profile) 작성
+- [팀용 개인 이력 프로필](https://github.com/rnb-rpa/Team/tree/master/profile) 작성
 - [잔디](https://www.jandi.com) 가입
   - 가입 후 팀원 아무나에게 잔디 팀 초대 요청
 - [GitHub](https://github.com) 가입
