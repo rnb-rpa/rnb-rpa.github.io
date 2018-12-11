@@ -20,7 +20,7 @@
   - 가입 후 팀원 아무나에게 잔디 팀 초대 요청
 - [GitHub](https://github.com) 가입
   - 가입 후 GitHub 아이디를 이윤수 부장에게 전달
-  - 차후 메일로 Repository 초대장이 여러 건 발송되는데 각각 전부 수락
+  - 차후 메일로 발송되는 Repository 초대장 여러 건 모두 각각 전부 수락
 - AWS S3와 콘솔 접근을 위한 접속 정보 획득
   - [팀 저장소](https://github.com/rnb-rpa/Team)의 [Issues](https://github.com/rnb-rpa/Team/issues/new)에 **Labels:AWS**로 요청
   - AWS에 사용할 아이디를 요청 내용에 입력
