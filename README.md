@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# 입사 후 체크 리스트
 
-You can use the [editor on GitHub](https://github.com/rnb-rpa/rnb-rpa/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## 본사
+담당자: 경영지원팀 박수연 과장
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [ ] 출입문 지문 등록
+- [ ] 이메일 발급
+- [ ] 업무용 개인 장비 수령
+  - [ ] 노트북
+  - [ ] 모니터
+  - [ ] 키보드
+  - [ ] 마우스
+- [ ] [그룹웨어 가입](groupware.md)
+- [ ] [RNB사우회 가입](cafe.md)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rnb-rpa/rnb-rpa/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 우리 팀
+- [ ] [잔디](https://www.jandi.com) 가입 (가입 후 팀원 아무나에게 잔디 팀 초대 요청)
+- [x] GitHub 가입 (GitHub 아이디를 이윤수 부장에게 전달)
+- [ ] AWS S3와 콘솔 접근을 위한 접속 정보 획득 ([Issues](https://github.com/rnb-rpa/Team/issues/new)에 **Labels:AWS**로 요청, 사용할 아이디 입력)
