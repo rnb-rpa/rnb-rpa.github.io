@@ -24,6 +24,6 @@
   - [팀 저장소](https://github.com/rnb-rpa/Team)의 [Issues](https://github.com/rnb-rpa/Team/issues/new)에 **Labels:AWS**로 요청 (GitHub 로그인이 되어 있어야 이 링크가 보임)
   - AWS에 사용할 아이디를 요청 내용에 입력
 
-# 기타
+## 기타
 * 본사 주소: 경기도 성남시 분당구 구미로 8 3층(구미동,분당엠타워)
 * 본사 Wi-Fi 비밀번호: rnb6707!@
