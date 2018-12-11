@@ -22,16 +22,18 @@
   - 가입 후 GitHub 아이디를 이윤수 부장에게 전달
   - 차후 메일로 Repository 초대장이 여러 건 발송되는데 각각 전부 수락
 - AWS S3와 콘솔 접근을 위한 접속 정보 획득
-  - [팀 저장소](https://github.com/rnb-rpa/Team)의 [Issues](https://github.com/rnb-rpa/Team/issues/new)에 **Labels:AWS**로 요청 (GitHub 로그인이 되어 있어야 이 링크가 보임)
+  - [팀 저장소](https://github.com/rnb-rpa/Team)의 [Issues](https://github.com/rnb-rpa/Team/issues/new)에 **Labels:AWS**로 요청
   - AWS에 사용할 아이디를 요청 내용에 입력
+
+※ 위에서 팀 링크들은 GitHub 로그인이 되어 있어야 접근 가능함
 
 ## 휴가 신청
 - 그룹웨어를 통해서 휴가 계획서 제출 (경영지원팀)
 - 휴가 요청 이메일 발송
-  - 본사 상주 시: 
+  - 본사 상주 중
     - 수신자: 서우석 팀장
     - 참조: 경영지원팀 고준영 팀장
-  - 파견 시:
+  - 파견 중
     - 서우석 팀장에게만 이메일 발송
 
 ## 기타
