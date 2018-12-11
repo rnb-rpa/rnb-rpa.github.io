@@ -1,6 +1,6 @@
 # RNB사우회 가입 안내
 * 카페 주소: http://cafe.daum.net/rnbsoftware
-* 가입 패스워드: [팀 저장소 참고](https://github.com/rnb-rpa/Team/blob/master/cafe.md)
+* 가입 패스워드: [팀 저장소 참고](https://github.com/rnb-rpa/Team/blob/master/cafe.md) (GitHub 로그인 필요)
 * 다음 카페에서 'rnb사우회', '알앤비사우회'로 검색 가능
 
 ## 가입시 유의 사항
