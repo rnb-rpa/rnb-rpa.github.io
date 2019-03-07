@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+</head>
+<body>
+  <div class="mermaid">
+
+    gantt
+      title 자동화 사업팀 2019
+      dateFormat  YYYY-MM-DD
+    
+      section NS 홈쇼핑
+      1차 구현: done, 2018-12-17, 2018-12-30
+      2차 구현: done, 2018-12-31, 2019-01-11
+      테스트: done, 2018-12-31, 2019-02-01
+      안정화: active, 2019-02-01, 2019-03-15
+      
+      section 교통공사
+      교통공사: 2019-03-01, 120d
+    
+      section 아산병원
+      아산병원 :2019-04-01, 120d
+    
+  </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.0.0/mermaid.min.js"></script>
+  <script>mermaid.initialize({startOnLoad:true});</script>
+</body>
+</html>
