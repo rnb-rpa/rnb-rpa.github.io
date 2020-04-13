@@ -13,7 +13,7 @@
 
 ## 우리 팀
 - [GitHub](https://github.com) 가입
-  - GitHub에 먼저 가입 후 GitHub 아이디를 강차숙(부장) 또는 서영민(대리)에게 전달
+  - GitHub에 먼저 가입 후 GitHub 아이디를 관리자(master@batem.com)로 전달
   - 차후 메일로 발송되는 Repository 초대장 여러 건 모두 각각 수락
 - AWS S3와 콘솔 접근을 위한 접속 정보 획득
   - [팀 저장소](https://github.com/rnb-rpa/Team)의 [Issues](https://github.com/rnb-rpa/Team/issues/new)에 **Labels:AWS**로 요청
