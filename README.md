@@ -12,8 +12,6 @@
 - [그룹웨어 가입](groupware.md)
 
 ## 우리 팀
-- [잔디](https://www.jandi.com) 가입
-  - 잔디에 먼저 가입 후 팀원 아무나에게 잔디 팀 초대 요청
 - [GitHub](https://github.com) 가입
   - GitHub에 먼저 가입 후 GitHub 아이디를 강차숙(부장) 또는 서영민(대리)에게 전달
   - 차후 메일로 발송되는 Repository 초대장 여러 건 모두 각각 수락
