@@ -18,6 +18,7 @@
 - AWS S3와 콘솔 접근을 위한 접속 정보 획득
   - [팀 저장소](https://github.com/rnb-rpa/Team)의 [Issues](https://github.com/rnb-rpa/Team/issues/new)에 **Labels:AWS**로 요청
   - AWS에 사용할 아이디를 요청 내용에 입력
+  - [S3 사용방법]https://gw.batem.com/board/view/000001?wr_id=4&
 - 그룹웨어 **개인 프로필** 게시판에서 다른 팀원의 프로필 파일 다운로드 받아서 자신에 맞게 수정 후 등록
 
 ※ 위에서 팀 링크들은 GitHub 로그인이 되어 있어야 접근 가능함
